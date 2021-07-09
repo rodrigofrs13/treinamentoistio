@@ -12,15 +12,45 @@ Colocar ✔ quando concluído.
 
 ## **LinuxTips - Descomplicando o Istio** 
 
-## DIA DE APRENDER MUITO SOBRE ISTIO E SERVICE MESH NO KUBERNETES
-
-https://www.youtube.com/watch?v=8et8dhuJkEI
-
 
 
 ## Descomplicando o Istio - Aula ao Vivo
 
 https://www.youtube.com/watch?v=Qk7FFBby43U&t=2s
+
+
+
+## Service-Mesh: uma visão aprofundada das tecnologias e razões para adoção
+
+https://www.infoq.com/br/presentations/service-mesh-razoes-para-adocao/
+
+## Service Mesh e Sidecars com Istio e Envoy
+
+https://www.infoq.com/br/presentations/service-mesh-sidecars-istio-envoy/
+
+
+
+## Service Mesh e Sidecars: Escrevendo aplicações com Istio e Envoy | ⚡ Zup Insights 
+
+https://www.youtube.com/watch?v=MLIdQ9YwiNY
+
+
+
+## Solucionando Problemas de Microsserviços com Service Mesh: Istio e Envoy - Edson Yanaga
+
+https://www.youtube.com/watch?v=AWpsmh47pIk
+
+
+
+## Service Mesh e Sidecars com Istio e Envoy - Rafael Benevides
+
+https://www.youtube.com/watch?v=aGnMREnH5A8
+
+
+
+## Docker e Envoy: Proxy Reverso, Service Mesh
+
+https://www.youtube.com/watch?v=c9vfAjMrKeQ
 
 
 
