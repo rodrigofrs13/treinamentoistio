@@ -9,7 +9,6 @@ Colocar ✔ quando concluído.
 # **Treinamentos**
 
 
-
 ## **LinuxTips - Descomplicando o Istio** 
 
 
