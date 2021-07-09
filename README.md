@@ -82,6 +82,10 @@ https://medium.com/codigorefinado/istio-parte-1-introdu%C3%A7%C3%A3o-simplifican
 
 https://www.youtube.com/watch?v=Txv9CQoUEL8
 
+
+
+
+
 # **Anotações**
 
 **O que é:**
