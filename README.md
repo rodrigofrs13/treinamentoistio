@@ -105,37 +105,37 @@ O Istio é uma malha de serviço de código aberto que ajuda as organizações a
 
 
 
-| Comando | Descrição |
-| :-----: | :-------- |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
-|         |           |
+|                           Comando                            | Descrição      |
+| :----------------------------------------------------------: | :------------- |
+| curl -L https://git.io/getLatestIstio \|ISTIO_VERSION=1.10.2 sh - | Download Istio |
+|     https://istio.io/latest/docs/setup/getting-started/      | Setup Istio    |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
+|                                                              |                |
 
 # **Best Practices**
 
